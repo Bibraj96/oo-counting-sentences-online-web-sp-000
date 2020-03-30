@@ -18,8 +18,7 @@ class String
     end
   end
 
-  def exclamation?
-
+  def exclamation
   end
 
   def count_sentences
